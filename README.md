@@ -34,7 +34,7 @@ defalut li class is 'button'
 defalut active class is 'is-primary'
 
 you can change them in pagintion.js
-
+```
 
 
  ![image](https://github.com/xyc-cn/vue-pagination/blob/master/src/assets/preview.png)
