@@ -34,3 +34,7 @@ defalut li class is 'button'
 defalut active class is 'is-primary'
 
 you can change them in pagintion.js
+
+#preview
+
+![image](https://github.com/xyc-cn/vue-pagination/raw/master/src/assets/preview.png)
